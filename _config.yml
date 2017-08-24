@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "David Wong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ryu.jpg"
   bio              : "Software Developer."
   location         : "Auckland, NZ"
   email            :
