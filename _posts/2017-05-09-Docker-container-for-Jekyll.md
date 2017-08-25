@@ -12,9 +12,9 @@ Jekyll is developed using Ruby and can be challenging to install required compon
 
 ## Welcome [Docker](https://www.docker.com/)! 
 
-Docker is a cross platform tool that allows fully contained applications to be run in an
+Docker is a cross platform tool that allows applications to be run in an
 isolated environment called containers similar to a VM. Containers are much smaller and less
-cpu and memory intensive.
+cpu and memory intensive than VM's.
 
 The official [Jekyll container](https://github.com/jekyll/docker) comes setup with 
 everything required to run Jekyll.
@@ -22,9 +22,8 @@ everything required to run Jekyll.
 ## Requirements
 
 1. Install [Docker](https://www.docker.com/)
-1. A Jekyll website or if you do not have a website you can clone the 
-[minimal mistakes](https://github.com/mmistakes/minimal-mistakes) or 
-[this](https://github.com/dvkwong/devint) site.
+1. A Jekyll website or clone the [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) or 
+[this](https://github.com/dvkwong/devint) Jekyll sites.
 
 ## Running the Jekyll Container
 
