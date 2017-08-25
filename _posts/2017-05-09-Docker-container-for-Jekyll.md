@@ -8,23 +8,25 @@ tags:
 ---
 
 [Jekyll](https://jekyllrb.com/) is a static website generator that converts markdown to html. 
-Jekyll is developed using Ruby based and has always been a challenge to setup on Windows or OSX. 
-From installing Ruby, bundler and installing 'compatible' of gem packages.
+Jekyll is developed using Ruby and can be challenging to install required components.
 
-Welcome [Docker](https://www.docker.com/)! Docker is a cross platform tool that allows fully contained 
-applications to be run in an isolated container similar to a VM. Containers are much smaller and less
- cpu and memory intensive. There are many containers for running lots of applications especially for Linux.
+## Welcome [Docker](https://www.docker.com/)! 
+
+Docker is a cross platform tool that allows fully contained applications to be run in an
+isolated environment called containers similar to a VM. Containers are much smaller and less
+cpu and memory intensive.
+
+The official [Jekyll container](https://github.com/jekyll/docker) comes setup with 
+everything required to run Jekyll.
 
 ## Requirements
 
 1. Install [Docker](https://www.docker.com/)
-1. A Jekyll website. Clone the [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 
-Jekyll [website](https://mmistakes.github.io/minimal-mistakes/) if you do not have a site.
+1. A Jekyll website or if you do not have a website you can clone the 
+[minimal mistakes](https://github.com/mmistakes/minimal-mistakes) or 
+[this](https://github.com/dvkwong/devint) site.
 
 ## Running the Jekyll Container
-
-The official [Jekyll container](https://github.com/jekyll/docker) comes pre-installed with 
-everything required to run Jekyll.
 
 1. Open a powershell or terminal window
 1. Navigate to your Jekyll website directory
