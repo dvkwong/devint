@@ -4,6 +4,7 @@ categories:
   - posts
 tags:
   - Docker
+  - Containers
   - Jekyll
 ---
 

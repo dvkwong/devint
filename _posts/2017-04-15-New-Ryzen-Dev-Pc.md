@@ -1,12 +1,9 @@
 ---
 title: Ryzen
-excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - posts
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Ryzen
 ---
 
 After many years of using a laptop I have decided to go back to a desktop pc.

@@ -1,12 +1,9 @@
 ---
 title: Raspberry PI
-excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - posts
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Raspberry PI
 ---
 
 With the weather getting a little chilly I wanted to monitor the temperature in my kids room.

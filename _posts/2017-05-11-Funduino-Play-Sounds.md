@@ -1,12 +1,9 @@
 ---
 title: Funduino Nano Play Sounds
-excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - posts
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Arduino
 ---
 
 [Use tone() with Arduino for an Easy Way to Make Noise](https://programmingelectronics.com/an-easy-way-to-make-noise-with-arduino-using-tone/)

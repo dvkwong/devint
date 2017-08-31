@@ -1,12 +1,9 @@
 ---
 title: Learning Docker
-excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - posts
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Docker
 ---
 
 ## Creating a Docker image using a docker file
