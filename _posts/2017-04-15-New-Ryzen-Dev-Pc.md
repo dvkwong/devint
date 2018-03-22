@@ -21,7 +21,7 @@ Over the easter weekend [PBTech](https://www.pbtech.co.nz) Auckland was having a
 | 275 Crucial MX300 SSD | $129.00 |
 | 16GB (8GB x 2) Team Dark TDRRD4 3000 mhz memory | $195 |
 | Sapphire Nitro RX460 2GB | $135 |
-| Gigiabyte GA-AB350m-d3h mother board | $137 |
+| Gigiabyte [GA-AB350m-d3h](https://www.gigabyte.com/us/Motherboard/GA-AB350M-D3H-rev-10#support-dl) mother board | $137 |
 | [LG 29UM69G-B](http://www.lg.com/us/monitors/lg-29UM69G-B-ultrawide-monitor) 29" 21:9 UltraWide IPS 2560x1080 |
 | Zalman 500w Power supply | $71.25 |
 | Cooler Master Lite mini ATX case | $50.3 |
