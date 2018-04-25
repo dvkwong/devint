@@ -8,12 +8,11 @@ tags:
 
 [Fastboot method to update firmware](https://forum.xda-developers.com/showpost.php?p=72402783&postcount=15)
 
-1. Go to Xiaomis [Fastboot Update Page](http://en.miui.com/a-234.html)
-1. Download latest Fastboot ROM eg latest China dev.
-1. Extract the content
+1. Go to Xiaomi [Fastboot Update Page](http://en.miui.com/a-234.html) and download latest Fastboot ROM eg latest China stable.
+1. Extract the contents to disk
 1. Run Terminal cd to the folder that has the firmware files, like /images for example.
-1. Boot your phone to Bootloader Mode. Vol Down and Power. Until Fastboot shows up
-1. Run each of these commands (or put into a batch file) while the folder with the firmwares is the current working folder
+1. Boot your phone to Bootloader Mode. Restart phone and hold Volume Down and Power button to boot to Fastboot.
+1. Run each of these commands (or put into a batch file).
 
 ```cs
 // Put into a batch file if on windows
