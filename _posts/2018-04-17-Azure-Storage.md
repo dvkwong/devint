@@ -20,6 +20,10 @@ tags:
 
 [Binary Upload](https://blogs.technet.microsoft.com/livedevopsinjapan/2017/10/07/image-uploading-with-azure-functions-node-js-and-angular-4/)
 
+[Storage naming rules](https://blogs.msdn.microsoft.com/jmstall/2014/06/12/azure-storage-naming-rules/)
+
+[Slow bulk inserts](https://stackoverflow.com/questions/17955557/painfully-slow-azure-table-insert-and-delete-batch-operations)
+
 ## Blob Storage
 
 [Upload to blob storage](https://www.cyotek.com/blog/upload-data-to-blob-storage-with-azure-functions)
@@ -30,8 +34,14 @@ tags:
 
 ## Azure functions
 
-[Deploy Azure function from code (c#)](https://stackoverflow.com/questions/45034054/deploy-azure-function-from-code-c)
+[Kudu REST Api](https://github.com/projectkudu/kudu/wiki/REST-API#zip)
 
-[REST Api to create Azure function](https://docs.microsoft.com/en-us/rest/api/appservice/WebApps/CreateFunction)
+[Kudu REST Api Example](https://geeks.ms/davidjrh/2015/09/12/azure-web-apps-kudu-rest-api-is-a-box-of-surprises/)
 
-[REST Api's Azure functions](https://feedback.azure.com/forums/355860-azure-functions/suggestions/32593513-manage-function-using-the-azure-rest-api)
+https://blogs.msdn.microsoft.com/gabeshapiro/2017/01/01/samples-for-using-the-azure-app-service-kudu-rest-api-to-programmatically-manage-files-in-your-site/
+
+### Using Postman
+
+#### [Number of entries expected in End Of Central Directory does not correspond to number of entries in Central Directory](https://github.com/projectkudu/kudu/issues/2398)
+
+Use binary NOT form-data
