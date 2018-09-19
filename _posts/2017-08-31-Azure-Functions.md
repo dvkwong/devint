@@ -19,5 +19,5 @@ tags:
 
 ### Installing preview versions
 
-1. Find release name eg [2.0.1-beta.29](https://github.com/Azure/azure-functions-core-tools/releases)
-2. Use npm tool to install specific version eg 'npm install -g azure-functions-core-tools@2.0.1-beta.29'
+1. Find release name eg [2.0.1-beta.39](https://github.com/Azure/azure-functions-core-tools/releases)
+2. Use npm tool to install specific version eg 'npm install -g azure-functions-core-tools@2.0.1-beta.39'
