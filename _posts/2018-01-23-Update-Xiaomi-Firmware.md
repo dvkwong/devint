@@ -13,6 +13,7 @@ tags:
 1. Run Terminal cd to the folder that has the firmware files, like /images for example.
 1. Boot your phone to Bootloader Mode. Restart phone and hold Volume Down and Power button to boot to Fastboot.
 1. Run each of these commands (or put into a batch file).
+1. Copying files to Android device while in Recovery - adb push 'filename' /sdcard/Download
 
 ```cs
 // Put into a batch file if on windows
