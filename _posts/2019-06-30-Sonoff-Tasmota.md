@@ -7,13 +7,13 @@ tags:
   - Tasmota
 ---
 
-| IP Address    | Description |
-| :------------ | :---------- |
-| 192.168.1.152 | Lounge      |
-| 192.168.1.153 | Ryu         |
-| 192.168.1.154 | Mum         |
-| 192.168.1.155 | Dad         |
-| 192.168.1.156 | Upstairs    |
+| IP Address | Description |
+| :--------- | :---------- |
+| 10.0.0.152 | Lounge      |
+| 10.0.0.153 | Ryu         |
+| 10.0.0.154 | Mum         |
+| 10.0.0.155 | Dad         |
+| 10.0.0.156 | Upstairs    |
 
 ## Set Wifi and Static IP
 
